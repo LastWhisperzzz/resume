@@ -86,13 +86,12 @@ Last Whisper
 
 工作经历
 ----
-1. [杭州诚智天扬科技有限公司](http://www.witsky.cn//)
+1. [杭州诚智天扬科技有限公司](http://www.witsky.cn//) 
 2. [浙江网仓科技有限公司](http://wangcang-v2.ibeimen.com/)
 
-
-项目
+开源项目
 ----
-1. [基于vuepress+reco的个人博客](http://www.lastwhisper.net)
+1. [基于vuepress+reco的个人博客](https://www.lastwhisper.net)
 2. [vue商城后台管理系统](https://github.com/LastWhisperzzz/vue-mall)
 3. [Web网易云音乐](https://github.com/LastWhisperzzz/music)
 4. [2048game](https://github.com/LastWhisperzzz/2048)
@@ -112,15 +111,15 @@ Last Whisper
 ----
 1. [Vue](https://github.com/LastWhisperzzz/vue-learning-notes)
 2. [CSS](https://github.com/LastWhisperzzz/css_tricks)
-3. [https://github.com/LastWhisperzzz/js_tricks)
+3. [JavaScript](https://github.com/LastWhisperzzz/js_tricks)
 
 联系我
 ----
 * Email：**xxzworkmail@gmail.com** 
 * Twitter：**https://twitter.com/LastWhisperzzz**
-* 主要涉及技术：**Java后端开发**、**通讯业务**、**仓储系统**、**开源爱好者**、**Linux** 
+* 主要涉及技术：**Web后端开发**、**通讯业务**、**仓储系统**、**开源爱好者**、**Linux** 
 
-> 这就是我的个人简介,如果感兴趣欢迎关注我的GitHub和个人博客
+> 这就是我的个人简介,如果感兴趣欢迎关注我的GitHub和个人博客\\ (•◡•) /
 `;
 
 var text3=`

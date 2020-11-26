@@ -96,7 +96,7 @@ Last Whisper
 3. [Web网易云音乐](https://github.com/LastWhisperzzz/music)
 4. [2048game](https://github.com/LastWhisperzzz/2048)
 5. [动态简历](https://github.com/LastWhisperzzz/resume)
-6. [仿星巴克官网首页](https://github.com/LastWhisperzzz/starbucks)
+6. [仿小米商城官网](https://github.com/LastWhisperzzz/vue-mall)
 7. [技术博客网站](http://www.lastwhisper.net)
 
 链接
